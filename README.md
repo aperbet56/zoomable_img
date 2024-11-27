@@ -6,7 +6,7 @@ Création de la fonctionnalité permettant de zoomer dans une image en utilisant
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/zoomable_img/
 
 ## Projet développé avec
 
