@@ -32,7 +32,7 @@ body {
 }
 
 .zoomable__container__img:hover {
+    /* Curseur en croix droite */
     cursor: crosshair;
     scale: 2;
-    /* Curseur en croix droite */
 }
