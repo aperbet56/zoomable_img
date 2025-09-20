@@ -1,5 +1,7 @@
 ## ZOOMER SUR L'IMAGE
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Création de la fonctionnalité permettant de zoomer dans une image en utilisant le HTML5, le CSS3 et le JavaScript.
